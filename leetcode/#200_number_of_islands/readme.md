@@ -6,4 +6,4 @@ Language used: Java
 
 Efficiency: O(m * n)
 
-See [Code Submission](https://leetcode.com/submissions/detail/759606937/)
+See [Code Submission](https://leetcode.com/submissions/detail/760111897/)
