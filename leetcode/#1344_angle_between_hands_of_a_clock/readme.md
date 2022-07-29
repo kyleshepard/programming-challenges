@@ -4,6 +4,6 @@ Difficulty: Medium
 
 Language used: Java
 
-Efficiency: O(k)
+Efficiency: O(1)
 
 See [Code Submission](https://leetcode.com/submissions/detail/555560662/)
