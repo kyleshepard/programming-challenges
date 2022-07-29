@@ -1,10 +1,12 @@
+import java.util.LinkedList;
+import java.util.Queue;
+
 class Solution {
     public int numIslands(char[][] grid) {
         int islands = 0;
         int width = grid.length;
         int height = grid[0].length;
         Queue<int[]> queue = new LinkedList<>();
-        int[][] dXdY = {{0, -1}, {0, 1}, {-1, 0}, {1, 0}};
         
         //look over every item
         for(int i = 0; i < width; i++){
