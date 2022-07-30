@@ -5,7 +5,6 @@ class Solution:
         
         # if length is one or array is not rotated
         if nums[l] <= nums[r]:
-            print(nums, nums[l])
             return nums[l]
         
         # if l and r are next to each other, r will be the index of the min
