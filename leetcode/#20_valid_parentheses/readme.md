@@ -1,4 +1,4 @@
-Problem [#](https://leetcode.com/problems/valid-parentheses/)
+Problem [#20](https://leetcode.com/problems/valid-parentheses/)
 
 Difficulty: Easy
 
